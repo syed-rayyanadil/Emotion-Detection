@@ -19,3 +19,10 @@ facial emotion states. As a result, determining whether two people have the
 same emotion state is difficult because they may express the same emotion 
 state in different ways. For instance, depending on the individual's mood, 
 skin color, age, and surrounding environment, the expression may vary.
+
+<br><br><br><br><br>
+![WhatsApp Image 2021-07-07 at 1 27 57 PM (2)](https://user-images.githubusercontent.com/89123259/209618444-4ab71820-5400-4afa-8fae-bd3f1d8cffb9.jpeg)
+<br><br><br><br><br>
+![WhatsApp Image 2021-07-07 at 1 27 58 PM](https://user-images.githubusercontent.com/89123259/209618505-cbff2e38-e177-4c70-8d52-8d32a08a730d.jpeg)
+<br><br><br><br><br>
+![WhatsApp Image 2021-07-07 at 1 27 55 PM (1)](https://user-images.githubusercontent.com/89123259/209618536-df0c6ed9-f515-481b-be36-c5f78dfbfca3.jpeg)
